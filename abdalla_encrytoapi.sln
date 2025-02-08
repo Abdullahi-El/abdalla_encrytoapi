@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abdalla_encrytoapi", "abdalla_encrytoapi.csproj", "{7DF74182-2664-4B86-9361-6032FFEC29DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF74182-2664-4B86-9361-6032FFEC29DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF74182-2664-4B86-9361-6032FFEC29DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF74182-2664-4B86-9361-6032FFEC29DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF74182-2664-4B86-9361-6032FFEC29DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
